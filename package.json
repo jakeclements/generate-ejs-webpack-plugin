@@ -1,0 +1,19 @@
+{
+  "name": "generate-ejs-webpack-plugin",
+  "version": "0.0.1",
+  "description": "Generate EJS Templates to HTML on Webpack build",
+  "main": "generate-ejs-webpack-plugin.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "peerDependencies": {
+    "webpack": "^1.9.11"
+  },
+  "keywords": [
+    "EJS",
+    "Webpack",
+    "HTML"
+  ],
+  "author": "Jake Clements <jake@jakeclements.com>",
+  "license": "ISC"
+}
