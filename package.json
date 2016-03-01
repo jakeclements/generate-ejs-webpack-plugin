@@ -1,6 +1,11 @@
 {
   "name": "generate-ejs-webpack-plugin",
-  "version": "0.0.1",
+  "version": "0.0.01",
+  "author": "Jake Clements <jake@jakeclements.com>",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jakeclements/generate-ejs-webpack-plugin.git"
+  },
   "description": "Generate EJS Templates to HTML on Webpack build",
   "main": "generate-ejs-webpack-plugin.js",
   "scripts": {
@@ -14,6 +19,6 @@
     "Webpack",
     "HTML"
   ],
-  "author": "Jake Clements <jake@jakeclements.com>",
+
   "license": "ISC"
 }
